@@ -1,0 +1,404 @@
+[Adblock Plus 2.0]
+! Title: 🇦🇱 Adblock List for Albania
+! Description: Albanian adblock list
+! Last modified: 24/01/2019
+! Expires: 1 day
+! Homepage: https://github.com/anxh3l0/blocklist
+! License: https://unlicense.org/
+!
+! Please report any issues at:
+! https://github.com/anxh3l0/blocklist/issues
+
+! General ReCaptcha Badge
+##.grecaptcha-badge
+
+! Gjirafa AdNetwork
+||gjc.gjirafa.com$third-party
+
+! GDPR cookies banner
+###gdpr-banner
+##.gdpr-popup
+
+! New Generic Article Box
+##.td-more-articles-box
+
+! Cookies Banner
+##.cc-type-info
+###iframe_cookie
+
+! Albeu notifications spammer
+albeu.com##.sendpulse-prompt
+
+! Ads in Koha Jone
+||kohajone.com/wp-content/uploads/2018/04/facile.png$image
+||kohajone.com/wp-content/uploads/2018/10/psikologu-1.jpeg$image
+||kohajone.com/wp-content/uploads/2018/12/300x25012345.gif$image
+html$domain=kohajone.com,subdocument
+kohajone.com##div > iframe
+kohajone.com##.td-desktop
+kohajone.com##.td_block_template_1 > div > img
+
+! Koha Jone Buggy Div
+kohajone.com##.vc_raw_html:has-text(Html code)
+
+! Living Ads
+||living.al/images3/2018/banners/raiffeisen-2018-12-06.gif$image
+living.al###sticky1
+living.al###baner1
+living.al###sanpietro2
+living.al##.tekebaner1
+
+! Ads on Gazeta Tema
+gazetatema.net###sidebar
+gazetatema.net###reklama1
+gazetatema.net###execphp-24 > .execphpwidget
+gazetatema.net###execphp-25 > .execphpwidget
+gazetatema.net###reklamavodafonestopwords
+gazetatema.net###content > div > a:has-text()
+||gazetatema.net/wp-content/uploads/2018/12/web-banner.jpg$image
+
+! Adware that promotes PDF software
+gazetatema.net##.notes-right
+
+! Ora News Ads
+oranews.tv##body > .container > .advert-under
+oranews.tv##.small-adv
+oranews.tv##.slider-adv
+
+! Short24 Adblock-blocker killer
+short24.pw###g207
+
+! Gazeta Dita Ads
+gazetadita.al###menu-item-640384 > a
+gazetadita.al##.textwidget
+
+! Gazeta Mapo Ads
+gazetamapo.al##div.wpb_content_element.wpb_text_column:nth-of-type(2) > .wpb_wrapper > .desktop
+gazetamapo.al##div.wpb_content_element.wpb_text_column:nth-of-type(4) > .wpb_wrapper > .desktop
+gazetamapo.al##.wpb_wrapper > p > a > img
+gazetamapo.al##.wpb_wrapper > div > a > img
+
+! Politiko.al Ad
+politiko.al##.wpb_wrapper > a > img
+
+! Dritare Ads
+||dritare.net/wp-content/uploads/2018/12/drittare.net_.jpeg$image
+dritare.net##.td-fix-index > iframe
+dritare.net##.custom-html-widget > iframe
+
+! Njoftime.com Ads
+njoftime.com##.left-banner
+njoftime.com###sidebar_container
+
+! Droni.al Notification
+droni.al###bottom_fixed_notification
+
+! Gazeta Shekulli Ads
+shekulli.com.al##.rek-holder
+shekulli.com.al##.fixed-ad
+
+! Lajmi.net Ad
+lajmi.net##.radio-live-adv
+
+! Lajmi Fundit Ads
+lajmifundit.al###ads2018
+
+! Fishmedia Ads
+fishmedia.info##.main_ban_rek > .container > .g
+fishmedia.info##.main_ban_rek > .g
+fishmedia.info##.sidebar_rek
+
+! NewsBomb Ads
+newsbomb.al##.site-banner
+
+! Tirana Post Ads
+tiranapost.al##.textwidget > a
+tiranapost.al##.theiaStickySidebar > a
+tiranapost.al##.textwidget > a
+
+! Subscribe Notifications Banner
+pamfleti.net###foxpush_subscribe
+
+! JOQ Ads
+joq.al###fixed_728_banner
+jetaoshqef.al##.adunit-1
+
+! Syri Ads
+syri.net##.rekl-phone
+syri.net##.app_holder
+
+! 360grade Ads
+360grade.al##div.widget > .textwidget
+360grade.al###offcanvas-article
+
+! Bank of Albania Nagging Modal
+bankofalbania.org##.modal-open:style(overflow: visible)
+bankofalbania.org###modalHome
+bankofalbania.org##.show.modal-backdrop
+
+! Noa Ads
+noa.al##.banner_intro
+noa.al##.left_fixed
+noa.al##.pc_only > a > img
+noa.al##.pc_only > iframe
+noa.al##.top-bigBanner
+noa.al##.banner_wrapper.pc_only
+
+! Neptun Cookie Banner
+neptun.al###v-cookielaw
+
+! Shpresa AL Cookie Banner
+dyqani.shpresa.al##.biscotto-container
+
+! ABCom Live Chat Support Image
+abcom.al###mibew-agent-button > img
+
+! Shkoder.net Ads
+shkoder.net##.td-all-devices
+shkoder.net##.td-block-title-wrap > h4 > span:has-text(REKLAMA)
+
+! Albacenter Ads
+albacenter.it###rt-sidebar-b > .rt-block
+
+! NimiTV Support Image
+nimitv.com##.olark-attention-grabber
+
+! Gazeta Express Ads
+gazetaexpress.com###ad-wide_skyscraper
+gazetaexpress.com##.ad-big_leaderboard
+gazetaexpress.com##.ad-medium_rectangle
+gazetaexpress.com###ad-big_rectangle
+
+! Insajderi Ads
+insajderi.com##.new_header-ad-box
+
+! TV Klan Sidebar Ads
+tvklan.al##.textwidget > p > img
+tvklan.al##.ad-widget-box > img
+tvklan.al##.shortcode-widget-box
+tvklan.al##.ad-widget-sizes > a > .ad-widget-box
+
+! Blitz Ads
+blitz.al##.main-nosplit > a
+
+! Cineplexx Top Location Picker
+cineplexx.al##.location-choose.open > wrapper:style(visibility:hidden;)
+
+! Lapsi Desktop Notification Nagging
+lapsi.al##.textwidget > button
+
+! UpViral Top Email Marketing Box
+upviral.com###convertbox
+
+! Lajmi Fundit Article Ads
+lajmifundit.al##.td_block_template_1 > a:has-text()
+lajmifundit.al##.td_block_template_1 > center > a:has-text()
+
+! Alsat TV Messenger Chat Nagging
+alsat-m.tv###fb-root
+
+! Fax Web Ad and Notification Prompt
+faxweb.al##.stream-item-top-wrapper
+faxweb.al##.sendpulse-bar
+faxweb.al##.theiaStickySidebar > .stream-item-widget
+faxweb.al###check-also-box
+
+! Intervista Sidebar Ads
+intervista.al##.mvp-side-widget.widget_text
+
+! MediaWorld In-article Ads
+mediaworld.al##.td_block_template_1:has-text(- Advertisement -)
+||topmedia.al/wp-content/uploads/2018/03/ads-in-front.gif$image
+
+! Konica Ads
+konica.al##.reklama-container
+konica.al##.widget:has-text(REKLAMA)
+
+! Bota Ads and More Articles Box
+bota.al##.vw-more-articles--visible.vw-more-articles
+bota.al##.widget.widget_sp_image
+
+! Snowflake Remover
+gsh.al###snowflakeContainer
+
+! Te Paekspozuarit Ads
+tpz.al##.murebestbannerdesktop
+tpz.al##.murebestshowonlydesktop
+
+! City News Ads
+cna.al##.mvp-feat1-list-ad
+cna.al##.mvp-main-box > .execphpwidget > div > a > img
+
+! Reporter Sharing Links
+reporter.al##.heateor_sss_sharing_container
+
+! Gazeta Celesi Ads
+gazetacelesi.al###target_banner_1
+gazetacelesi.al###target_banner_2
+gazetacelesi.al###target_banner_3
+gazetacelesi.al###target_banner_42
+gazetacelesi.al###target_banner_4
+gazetacelesi.al###target_banner_5
+gazetacelesi.al###target_banner_41
+gazetacelesi.al###target_banner_6
+||gazetacelesi.al/img/Domus_administrator_380x309px.gif$image
+
+! InTV Ads
+intv.al##.stick_block_layer
+intv.al###FBStickLayer
+
+! Business Magazine Ads
+businessmag.al##.popup-container
+businessmag.al##.flurry-container
+businessmag.al##.footer-last-news-wrapper
+
+! Newsport Ads
+newsport.al##.ad
+newsport.al###custom_html-3
+
+! Vip Sport Ads
+vipsport.al##.execphpwidget > a > img
+
+! ACP Ads
+acp.al##.sidebar-baner-top
+acp.al##.sidebar-baner-middle
+acp.al##.new_banner
+
+! 27-shi Ads
+27.al##.wpb_wrapper.vc_figure
+
+! Standard New Post Popup
+standard.al##.jnews_popup_post_container
+
+! Botime Pegi Snowflakes
+botimepegi.al##.wp-super-snow-flake
+
+! Durres Lajm New Post Box
+durreslajm.al###slidebox
+
+! Vizion Plus Ads
+vizionplus.tv##.pazar
+vizionplus.tv##.cssnow
+vizionplus.tv##.col-lg-3 > a > img
+vizionplus.tv###horiz_banner_2-wrap
+vizionplus.tv###upprev_box
+vizionplus.tv##.col-md-4 > a
+vizionplus.tv##.col-md-4 > iframe
+vizionplus.tv##.container > iframe
+html$domain=vizionplus.tv,subdocument
+
+! Telegrafi Ads
+telegrafi.com##.leaderboard-banner > iframe
+
+! RTSH Ads
+rtsh.al###text-html-widget-64 > .widget-container
+rtsh.al##.e3lan-post
+
+! ATA Ads
+ata.gov.al##.td-all-devices
+
+! Rilindja Demokratike Ads
+rd.al##.td_block_template_1 > div > img
+
+! Epoka e Re Ads
+epokaere.com##.rek
+epokaere.com##.crestaPostsBox
+
+! Tirana Times Ads
+tiranatimes.com##.main-sidebar > .widget > .banner
+
+! Evolve Studio Chat
+evolve.al###tidio-chat
+
+! Kallxo Ads
+kallxo.com##.xo360
+kallxo.com##.latestVideo
+
+! Gazeta Tribuna Ads
+gazetatribuna.com##.rek
+
+! RTV 21 Ads
+rtv21.tv###weather
+rtv21.tv##.small-ad-wrapper
+
+! Rrokum TV Ads
+rrokum.tv##.td-all-devices
+rrokum.tv##.td_block_template_1 > a > img
+
+! BotaPress Ads
+botapress.info##.g-4
+botapress.info##.g-1
+botapress.info##.headerslider
+
+! Ekonomia Online Ads
+ekonomiaonline.com##.g-7
+
+! Kosova Live 360 Ads
+kosovalive360.com##.awac-wrapper
+
+! Presheva Jone Ads
+preshevajone.com##.hidebanner
+preshevajone.com##.textwidget
+
+! TV Koha Ads
+www.tvkoha.tv##.td_block_template_1 > a > img
+
+! Lajme Press Ads
+lajmpress.com##.td-visible-desktop
+
+! Albinfo Banners
+www.albinfo.ch##.leadBanner
+
+! Shqiptarja Ads
+shqiptarja.com##.sidebar
+
+! Panorama Ads
+panorama.com.al##.reklama-box
+panorama.com.al##center
+panorama.com.al##iframe
+
+! Nacional Albania Ads
+nacionalalbania.al###text-7
+nacionalalbania.al###text-8
+nacionalalbania.al###text-9
+
+! Revista Kosovarja Ads
+revistakosovarja.net##.vc_column-inner > .wpb_wrapper > .vc_hidden-sm > .wpb_wrapper
+revistakosovarja.net##.wpb_wrapper > p > a > img
+
+! iPhone Albania Ads
+iphonealbania.net###HTML1
+
+! Radio Kosova e Lire Ads
+radiokosovaelire.com###dk-image-rotator-widget-3
+radiokosovaelire.com###dk-image-rotator-widget-4
+radiokosovaelire.com###dk-image-rotator-widget-7
+radiokosovaelire.com###check-also-box
+
+! Almakos Ads
+almakos.com##.fn-header-banner
+almakos.com##.textwidget > center > a
+
+! Shkabaj Ads
+shkabaj.net##iframe
+shkabaj.net##center
+
+! MyAlbanianFood Ads
+myalbanianfood.com###custom_html-6
+myalbanianfood.com###text-15
+myalbanianfood.com##.sidebar-single-w
+myalbanianfood.com##.single-post-comments-sidebar
+
+! Kosova Press Ads
+kosovapress.com##.ad-container
+kosovapress.com##.reklama_top
+
+! Arbresh Ads
+arbresh.info##.reklama-center
+
+! Epoka E Re Ads
+epokaere.com##.outer-banner
+epokaere.com##.a-d_wrapper
+
+! Gazeta Lajm Ads
+gazetalajm.com##.bannerSection.container

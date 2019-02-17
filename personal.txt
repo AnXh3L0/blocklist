@@ -1,0 +1,70 @@
+[Adblock Plus 2.0]
+! Title: ✋ Remove Annoyances
+! Last modified: 03/01/2019
+! Expires: 12 hours
+! Blocks clickbait etc. that I personally don't want.
+
+! Removes VIP buttons and ads in Trakt.tv website
+||trakt.tv/assets/huckster/desktop-text-1cd304e5f6f15e05a5af125deb5bb068.png$image
+trakt.tv###huckster-desktop-middle > .huckster-vip-info
+trakt.tv###snhb-in_content-2-0
+trakt.tv##.huckster-vip-square > .inner
+trakt.tv###huckster-desktop-sidenav > .huckster-vip-info
+trakt.tv###snhb-sidebar_left-0
+||trakt.tv/assets/huckster/desktop-text-1cd304e5f6f15e05a5af125deb5bb068.png$image
+trakt.tv###huckster-desktop-bottom > .huckster-vip-info
+trakt.tv###snhb-in_content-3-0
+||trakt.tv/assets/huckster/bg-b44a7f134f3aa1485e0d6dc1ee223125.jpg$image
+trakt.tv##.huckster-vip-square
+||trakt.tv/assets/huckster/bg-b44a7f134f3aa1485e0d6dc1ee223125.jpg$image
+
+! Removes annoyance in Sitepoint
+||dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/11/14788516501466142151pattern-final-copy.png$image
+
+! Removes a nagging countdown bar in the header in Sitepoint
+sitepoint.com###fixed-countdown-bar
+
+! Removes the "Pro" promo in Jekyll Themes website
+jekyllthemes.io##.promo
+
+! Removes more Reddit annoyances
+reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+
+! Removes the Reddit beta design button in the top left
+reddit.com###redesign-beta-optin-btn
+
+! Removes nagging "Log In" banner when browsing Instagram
+instagram.com##.Fzijm.bR_3v
+
+! Removes Recommended videos and channels from the frontpage
+youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix:has-text(Recommended)
+
+! Removes 17track cookie modal
+17track.net##.in.modal-backdrop
+
+! Removes Reddit re-design opt-in button
+old.reddit.com##.redesign-beta-optin
+
+! Removes cookie bubble in about.me
+about.me##.bubble-content
+
+! Removes extra unnecessary items at about.me
+about.me##.anonymous_ledge_view-scope-1RSnD
+
+! Removes signup button in about.me
+about.me##.signup-link.navlink > [href="/welcome"]
+
+! Freepik Nagging Banner
+freepik.com###banner-holder > div
+freepik.com##.bobjoll
+||cdns2.freepik.com/img/campaigns/flashsales/popup/5.png$image
+freepik.com###popup-flashsales-5
+
+! Cronn Privacy Overlay
+cronn.de##.privacyoverlay
+
+! Upvid Overlay
+upvid.co###mask
+
+! Scridb Annoyance
+scribd.com##.user_dismiss.entered.seo_roadblock.wrapper
