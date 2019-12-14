@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: ✋ Remove Annoyances
-! Last modified: 03/01/2019
+! Last modified: 14/12/2019
 ! Expires: 12 hours
 ! Blocks clickbait etc. that I personally don't want.
 
 ! Removes VIP buttons and ads in Trakt.tv website
 ||trakt.tv/assets/huckster/desktop-text-1cd304e5f6f15e05a5af125deb5bb068.png$image
 trakt.tv###huckster-desktop-middle > .huckster-vip-info
+trakt.tv###hu-ck-ster-desk-top-wrapper
 trakt.tv###snhb-in_content-2-0
 trakt.tv##.huckster-vip-square > .inner
 trakt.tv###huckster-desktop-sidenav > .huckster-vip-info
@@ -68,3 +69,10 @@ upvid.co###mask
 
 ! Scridb Annoyance
 scribd.com##.user_dismiss.entered.seo_roadblock.wrapper
+
+! Pinterest Overlays
+pinterest.com##.Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div > .FullPageModal__scroller
+pinterest.com###__PWS_ROOT__ > div > div > .Hsu.iyn.zI7 > .Hsu.iyn.zI7 > div
+
+! SimpleIcons Ad Box
+simpleicons.org##.grid-item--ad.grid-item
