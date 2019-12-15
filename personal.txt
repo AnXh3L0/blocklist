@@ -37,9 +37,6 @@ reddit.com###redesign-beta-optin-btn
 ! Removes nagging "Log In" banner when browsing Instagram
 instagram.com##.Fzijm.bR_3v
 
-! Removes Recommended videos and channels from the frontpage
-youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix:has-text(Recommended)
-
 ! Removes 17track cookie modal
 17track.net##.in.modal-backdrop
 
