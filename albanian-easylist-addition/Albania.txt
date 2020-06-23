@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 24/01/2019
+! Last modified: 23/06/2020
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -128,7 +128,6 @@ syri.net##.rekl-phone
 syri.net##.app_holder
 
 ! 360grade Ads
-360grade.al##div.widget > .textwidget
 360grade.al###offcanvas-article
 
 ! Bank of Albania Nagging Modal
@@ -402,3 +401,42 @@ epokaere.com##.a-d_wrapper
 
 ! Gazeta Lajm Ads
 gazetalajm.com##.bannerSection.container
+
+! https://github.com/AnXh3L0/blocklist/pull/1 (Various ads and placeholders)
+360grade.al#?#.widget:-abp-has(.lazyloaded)
+anabelmagazine.com##.web-ad
+classlifestyle.com##.bannertop
+ikub.al###mastertopbanner
+ikub.al##div[id^="ctl00_ContentPlaceHolder1_Latest"]
+noa.al##.pc_only[style]
+opinion.al###fpub-popup
+opinion.al##.news_block > .desktop
+opinion.al##.rek_section
+tej.al#?#.a-listing > li:-abp-has(.adsbygoogle)
+tej.al##.aside.right
+tej.al##.mgid
+the-living-media.com##.ad-box
+tvklan.al##.col-12.col-lg-4 > .d-none
+||360grade.al/wp-content/themes/360grade/images/*.gif$image
+||360grade.al/wp-content/themes/360grade/images/*.jpg^$image
+||classlifestyle.com/rek/megabanner.php^$subdocument
+||classlifestyle.com/rek/reklama-poshte-dok.php^$subdocument
+||kosovarja-ks.com/wp-content/uploads/*.gif^$image
+||noa.al/b^$image
+
+! Borrowed from AdGuard Base Filter
+||joq.al//banners^
+joq-albania.com,joqalbania.com##div[data-adunit]
+joq-albania.com,joqalbania.com##div[class^="adunit-"]
+joq-albania.com,joqalbania.com##.boost-list-container a[href^="https://aa.boostapi.net"]
+joq-albania.com,joqalbania.com#?#.boost-list-container > [style] > [class]:-abp-has(> a[href^="https://aa.boostapi.net"])
+filma24.to###vidad
+||youtube.com/embed/*?*&origin=*.filma24.*&widgetid$domain=filma24.to
+||filma24.to/Code-it.gif
+filma24.to#?#.widget > h2.module-heading:-abp-contains(INSTAGRAM)
+||gameselect.net/*.php$domain=albvid.com
+@@||videotekaime.net/uni/popunder.js|
+||gjc.gjirafa.com^
+gjirafa.com##div[id^="an-holder-"]
+||teksteshqip.com/imgz/ads/336.gif
+@@||videotekaime.com/uni/popunder.js
