@@ -440,3 +440,28 @@ filma24.to#?#.widget > h2.module-heading:-abp-contains(INSTAGRAM)
 gjirafa.com##div[id^="an-holder-"]
 ||teksteshqip.com/imgz/ads/336.gif
 @@||videotekaime.com/uni/popunder.js
+
+! Gjirafa banner
+gjirafa.com##.active-50.gjirafa50-bf
+
+! Filma24.ai ads
+www.filma24.ai##[src="/2tshishatetor.gif"]
+www.filma24.ai##[src="/sergio.jpg"]
+www.filma24.ai##[src="https://i.imgur.com/AP1P0JZ.jpg"]
+www.filma24.ai##.watch-movie > center
+www.filma24.ai##div.widget:nth-of-type(1)
+www.filma24.ai##div.widget:nth-of-type(2)
+www.filma24.ai##div.widget:nth-of-type(3)
+www.filma24.ai##div.movie-info > center
+
+! Lajmi.net ads
+lajmi.net##.adds_left
+lajmi.net##.adds--main.adds
+
+! Noa.al ad widgets
+noa.al##.left_fixed
+noa.al###webover_pc_banner
+noa.al##.right_fixed
+noa.al###news-right-2
+noa.al###news-right-4
+noa.al###news-right-5
