@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✋ Remove Annoyances
-! Last modified: 14/12/2019
-! Expires: 12 hours
+! Last modified: 12/1/2022
+! Expires: 1 day
 ! Blocks clickbait etc. that I personally don't want.
 
 ! Removes VIP buttons and ads in Trakt.tv website
