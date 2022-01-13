@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 23/06/2020
+! Last modified: 12/1/2022
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -114,7 +114,6 @@ newsbomb.al##.site-banner
 ! Tirana Post Ads
 tiranapost.al##.textwidget > a
 tiranapost.al##.theiaStickySidebar > a
-tiranapost.al##.textwidget > a
 
 ! Subscribe Notifications Banner
 pamfleti.net###foxpush_subscribe
@@ -459,7 +458,6 @@ lajmi.net##.adds_left
 lajmi.net##.adds--main.adds
 
 ! Noa.al ad widgets
-noa.al##.left_fixed
 noa.al###webover_pc_banner
 noa.al##.right_fixed
 noa.al###news-right-2
