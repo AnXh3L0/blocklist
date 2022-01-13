@@ -443,15 +443,16 @@ gjirafa.com##div[id^="an-holder-"]
 ! Gjirafa banner
 gjirafa.com##.active-50.gjirafa50-bf
 
-! Filma24.ai ads
-www.filma24.ai##[src="/2tshishatetor.gif"]
-www.filma24.ai##[src="/sergio.jpg"]
-www.filma24.ai##[src="https://i.imgur.com/AP1P0JZ.jpg"]
-www.filma24.ai##.watch-movie > center
-www.filma24.ai##div.widget:nth-of-type(1)
-www.filma24.ai##div.widget:nth-of-type(2)
-www.filma24.ai##div.widget:nth-of-type(3)
-www.filma24.ai##div.movie-info > center
+! Filma24.bz ads
+www.filma24.bz##.widgets
+www.filma24.bz##.bottom.adrek-space > .widget
+www.filma24.bz###boost-145
+www.filma24.bz##.njoftim
+www.filma24.bz##.watch-movie > center
+www.filma24.bz##div.movie-info > center
+www.filma24.bz###vidad
+www.filma24.bz###imgad
+||youtube.com/s/player/*$script,domain=filma24.bz
 
 ! Lajmi.net ads
 lajmi.net##.adds_left
