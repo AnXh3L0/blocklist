@@ -454,6 +454,15 @@ www.filma24.bz###vidad
 www.filma24.bz###imgad
 ||youtube.com/s/player/*$script,domain=filma24.bz
 
+! Filma24.bz full-width movie
+filma24.bz##div.player:style(width: 100% !important)
+filma24.bz##div.movie-info:style(width: 100% !important)
+filma24.bz##div.movie-optional:style(width: 100% !important)
+filma24.bz##div.watch-links:style(width: 100% !important)
+filma24.bz##div.download-links:style(width: 100% !important)
+filma24.bz###disqus_thread:style(width: 100% !important)
+filma24.bz##div.recommended.related:style(width: 100% !important)
+
 ! Lajmi.net ads
 lajmi.net##.adds_left
 lajmi.net##.adds--main.adds
