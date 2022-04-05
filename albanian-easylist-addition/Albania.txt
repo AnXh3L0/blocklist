@@ -453,11 +453,12 @@ www.filma24.so##div.movie-info > center
 www.filma24.so###vidad
 www.filma24.so###imgad
 ||static.boostcdn.net/js/*$script,domain=www.filma24.so
-||www.filma24.so^$popup,domain=www.filma24.id
+||www.filma24.so^$popup,domain=www.filma24.so
 |about:$popup,domain=www.filma24.so
-||brarpmqsxncqx.com^$domain=www.filma24.so
+||brarpmqsxncqx.com^$xhr,domain=www.filma24.so
 ||youtube.com/s/player/*$script,domain=filma24.so
 ||dubcxkncyuwdla.com^$xhr,domain=www.filma24.so
+||vwicpukmvoxxcgm.com^$xhr,domain=www.filma24.so
 
 ! filma24.so full-width movie
 filma24.so##div.player:style(width: 100% !important)
