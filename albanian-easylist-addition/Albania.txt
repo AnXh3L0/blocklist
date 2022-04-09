@@ -459,6 +459,7 @@ www.filma24.so###imgad
 ||youtube.com/s/player/*$script,domain=filma24.so
 ||dubcxkncyuwdla.com^$xhr,domain=www.filma24.so
 ||vwicpukmvoxxcgm.com^$xhr,domain=www.filma24.so
+||yhkrtmeblmcdk.com^$xhr,domain=www.filma24.so
 
 ! filma24.so full-width movie
 filma24.so##div.player:style(width: 100% !important)
