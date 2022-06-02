@@ -452,6 +452,7 @@ www.filma24.*###imgad
 www.filma24.*##center:nth-of-type(2)
 www.filma24.*##center:nth-of-type(4)
 www.filma24.*##center:nth-of-type(5)
+www.filma24.*##div.movie-info:nth-of-type(5)
 ||youtube.com/embed/*?*&origin=*.filma24.*&widgetid$domain=filma24.*
 ||static.boostcdn.net/js/*$script,domain=www.filma24.*
 ||www.filma24.*^$popup,domain=www.filma24.*
