@@ -463,10 +463,10 @@ www.filma24.*##center:nth-of-type(5)
 filma24.*##div.player:style(width: 100% !important)
 filma24.*##div.movie-info:style(width: 100% !important)
 filma24.*##div.movie-optional:style(width: 100% !important)
-filma24.ch##div.watch-links:style(width: 100% !important)
-filma24.ch##div.download-links:style(width: 100% !important)
-filma24.ch###disqus_thread:style(width: 100% !important)
-filma24.ch##div.recommended.related:style(width: 100% !important)
+filma24.*##div.watch-links:style(width: 100% !important)
+filma24.*##div.download-links:style(width: 100% !important)
+filma24.*###disqus_thread:style(width: 100% !important)
+filma24.*##div.recommended.related:style(width: 100% !important)
 
 ! Lajmi.net ads
 lajmi.net##.adds_left
