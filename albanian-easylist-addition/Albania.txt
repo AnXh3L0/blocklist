@@ -429,10 +429,6 @@ joq-albania.com,joqalbania.com##div[data-adunit]
 joq-albania.com,joqalbania.com##div[class^="adunit-"]
 joq-albania.com,joqalbania.com##.boost-list-container a[href^="https://aa.boostapi.net"]
 joq-albania.com,joqalbania.com#?#.boost-list-container > [style] > [class]:-abp-has(> a[href^="https://aa.boostapi.net"])
-filma24.ch###vidad
-||youtube.com/embed/*?*&origin=*.filma24.*&widgetid$domain=filma24.ch
-||filma24.ch/Code-it.gif
-filma24.ch#?#.widget > h2.module-heading:-abp-contains(INSTAGRAM)
 ||gameselect.net/*.php$domain=albvid.com
 @@||videotekaime.net/uni/popunder.js|
 ||gjc.gjirafa.com^
@@ -443,35 +439,30 @@ gjirafa.com##div[id^="an-holder-"]
 ! Gjirafa banner
 gjirafa.com##.active-50.gjirafa50-bf
 
-! filma24.ch ads
-www.filma24.ch##.widgets
-www.filma24.ch##.bottom.adrek-space > .widget
-www.filma24.ch###boost-145
-www.filma24.ch##.njoftim
-www.filma24.ch##.watch-movie > center
-www.filma24.ch##div.movie-info > center
-www.filma24.ch###vidad
-www.filma24.ch###imgad
-www.filma24.ch##center:nth-of-type(2)
-www.filma24.ch##center:nth-of-type(5)
-||static.boostcdn.net/js/*$script,domain=www.filma24.ch
-||www.filma24.ch^$popup,domain=www.filma24.ch
-|about:$popup,domain=www.filma24.ch
-||brarpmqsxncqx.com^$domain=www.filma24.ch
-||youtube.com/s/player/*$script,domain=filma24.ch
-||dubcxkncyuwdla.com^$domain=www.filma24.ch
-||vwicpukmvoxxcgm.com^$domain=www.filma24.ch
-||yhkrtmeblmcdk.com^$domain=www.filma24.ch
-||kagdkougoqo.com^$domain=www.filma24.ch
-||qammqxrwyusdsm.com^$domain=www.filma24.ch
-||hejlsdshoxs.com^$domain=www.filma24.ch
-||vmepuecembfltj.com^$domain=www.filma24.ch
-||bsncbjwbyddamj.com^$domain=www.filma24.ch
+! filma24 ads
+www.filma24.*###vidad
+www.filma24.*##.widgets
+www.filma24.*##.bottom.adrek-space > .widget
+www.filma24.*###boost-145
+www.filma24.*##.njoftim
+www.filma24.*##.watch-movie > center
+www.filma24.*##div.movie-info > center
+www.filma24.*###vidad
+www.filma24.*###imgad
+www.filma24.*##center:nth-of-type(2)
+www.filma24.*##center:nth-of-type(4)
+www.filma24.*##center:nth-of-type(5)
+||youtube.com/embed/*?*&origin=*.filma24.*&widgetid$domain=filma24.*
+||static.boostcdn.net/js/*$script,domain=www.filma24.*
+||www.filma24.*^$popup,domain=www.filma24.*
+|about:$popup,domain=www.filma24.*
+||youtube.com/s/player/*$script,domain=filma24.*
+||*.com^$domain=www.filma24.*
 
-! filma24.ch full-width movie
-filma24.ch##div.player:style(width: 100% !important)
-filma24.ch##div.movie-info:style(width: 100% !important)
-filma24.ch##div.movie-optional:style(width: 100% !important)
+! filma24 full-width movie
+filma24.*##div.player:style(width: 100% !important)
+filma24.*##div.movie-info:style(width: 100% !important)
+filma24.*##div.movie-optional:style(width: 100% !important)
 filma24.ch##div.watch-links:style(width: 100% !important)
 filma24.ch##div.download-links:style(width: 100% !important)
 filma24.ch###disqus_thread:style(width: 100% !important)
