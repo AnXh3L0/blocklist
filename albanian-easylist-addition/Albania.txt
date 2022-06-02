@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 30/05/2022
+! Last modified: 02/06/2022
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -466,6 +466,7 @@ www.filma24.ch##center:nth-of-type(5)
 ||qammqxrwyusdsm.com^$domain=www.filma24.ch
 ||hejlsdshoxs.com^$domain=www.filma24.ch
 ||vmepuecembfltj.com^$domain=www.filma24.ch
+||bsncbjwbyddamj.com^$domain=www.filma24.ch
 
 ! filma24.ch full-width movie
 filma24.ch##div.player:style(width: 100% !important)
