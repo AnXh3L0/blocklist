@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 02/06/2022
+! Last modified: 24/08/2022
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -479,3 +479,11 @@ noa.al##.right_fixed
 noa.al###news-right-2
 noa.al###news-right-4
 noa.al###news-right-5
+
+! FieriWeb Ads
+fieriweb.com##.stream-item-top
+fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(1)
+fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(2)
+fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(3)
+fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(4)
+fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(5)
