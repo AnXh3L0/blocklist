@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 24/08/2022
+! Last modified: 31/10/2022
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -481,3 +481,30 @@ fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream
 fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(3)
 fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(4)
 fieriweb.com##div.aligncenter.stream-item-inline-post.stream-item-in-post.stream-item:nth-of-type(5)
+
+! kohajone.com ads
+kohajone.com##.tdi_30_1c1.vc_raw_html.td_block_wrap.wpb_wrapper > .td-fix-index > .rekpolitiknje
+
+! abcnews.al ads
+abcnews.al##.align-items-center.flex-column.d-flex.col-sm-3
+
+! bulevardionline.com ads
+bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_25_f69.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
+||img.bulevardionline.com//2020/07/blue_background_color-scaled.jpg$image
+||img.bulevardionline.com//2020/07/blue_background_color-scaled.jpg$image
+bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_25_8e1.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
+bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_53_348.vc_single_image.td-no-img-custom-url.td_block_wrap.td_block_single_image.wpb_wrapper
+bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_54_6f4.vc_single_image.td-no-img-custom-url.td_block_wrap.td_block_single_image.wpb_wrapper
+||img.bulevardionline.com//2020/02/albcanon.gif$image
+||img.bulevardionline.com//2020/02/albcanon.gif$image
+||img.bulevardionline.com//2020/02/albcanon.gif$image
+bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_55_407.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
+bulevardionline.com##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_60_66f.vc_column
+bulevardionline.com##.td-pb-row.wpb_row.tdi_58_031.vc_row
+bulevardionline.com##.td-pb-span4.tdc-column.vc_column_container.wpb_column.tdi_71_428.vc_column > .wpb_wrapper
+bulevardionline.com##aside.widget_media_image.widget.td_block_template_1:nth-of-type(2)
+bulevardionline.com##aside.widget_media_image.widget.td_block_template_1:nth-of-type(3)
+bulevardionline.com##aside.widget_media_image.widget.td_block_template_1:nth-of-type(4)
+
+! anabelmagazine.com ads
+www.anabelmagazine.com##.hideM.a-ads
