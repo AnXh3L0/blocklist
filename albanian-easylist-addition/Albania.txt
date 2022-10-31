@@ -508,3 +508,35 @@ bulevardionline.com##aside.widget_media_image.widget.td_block_template_1:nth-of-
 
 ! anabelmagazine.com ads
 www.anabelmagazine.com##.hideM.a-ads
+
+! politiko.al ads
+politiko.al##div.insertion-box:nth-of-type(1)
+
+! konica.al ads
+konica.al##.reklama-background
+konica.al##.reklama-background-right
+
+! iconstyle.al ads
+iconstyle.al##.code-block-1.code-block
+iconstyle.al##.pp_ads_single_before_comment.ppb_ads > [href]
+
+! albaniandailynews.com ads
+www.albaniandailynews.com##[href^="https://www.raiffeisen.al/alb/page/platforma-digjitale-raiffeisen-on-1/"]
+www.albaniandailynews.com##div.sidebar-widget:nth-of-type(3)
+
+! telesport.al ads
+telesport.al##.sidebar-articles-container > .telesport-desktop-ads
+telesport.al##.article-wrapper > .telesport-desktop-ads
+
+! supersport.al ads
+www.supersport.al##.widget_media_image.side-widget
+www.supersport.al##.top-banner-promo
+www.supersport.al###post-right-col > .content_block
+
+! acp.al ads
+acp.al##.right_side_banner
+||acp.al/images/banners/Selmani-desktop-new-banner-v4-02-2021-2.jpg$image
+acp.al##.background-banner
+acp.al##.banner-bottom-category
+acp.al##.sidebar-baner-topproduct
+acp.al##.sidebar-baner-middleroduct
