@@ -54,7 +54,7 @@ gazetatema.net###reklama1
 gazetatema.net###execphp-24 > .execphpwidget
 gazetatema.net###execphp-25 > .execphpwidget
 gazetatema.net###reklamavodafonestopwords
-gazetatema.net###content > div > a:has-text()
+gazetatema.net#?##content > div > a:has-text()
 ||gazetatema.net/wp-content/uploads/2018/12/web-banner.jpg$image
 
 ! Adware that promotes PDF software
@@ -189,8 +189,8 @@ lapsi.al##.textwidget > button
 upviral.com###convertbox
 
 ! Lajmi Fundit Article Ads
-lajmifundit.al##.td_block_template_1 > a:has-text()
-lajmifundit.al##.td_block_template_1 > center > a:has-text()
+lajmifundit.al#?#.td_block_template_1 > a:has-text()
+lajmifundit.al#?#.td_block_template_1 > center > a:has-text()
 
 ! Alsat TV Messenger Chat Nagging
 alsat-m.tv###fb-root
