@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 31/10/2022
+! Last modified: 03/11/2023
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -540,3 +540,20 @@ acp.al##.background-banner
 acp.al##.banner-bottom-category
 acp.al##.sidebar-baner-topproduct
 acp.al##.sidebar-baner-middleroduct
+
+! Kosovo sites
+! https://telegrafi.com/category/lajme/kosove/
+telegrafi.com##.positionWidget
+! https://telegrafi.com/berisha-e-quan-ramen-argat-te-vuciqit-beri-bllof-per-asociacionin/
+telegrafi.com##.promoSection
+! https://www.gazetaexpress.com/lajme/
+gazetaexpress.com##.banner
+! https://www.gazetaexpress.com/jovanoviq-do-ta-tregoj-te-verteten-per-kosoven-qe-askush-nuk-deshiron-ta-thote/
+gazetaexpress.com#?#div.others:has(div[id*=_ads])
+! koha.net
+koha.net##div[class*=new-ads]
+! https://nacionale.com/kulture/kosova-vitin-tjeter-mund-te-behet-pjese-e-eurovisionit-drejtori-i-rt-kse-jep-lajm-te-madh-per-nacionalen-5431
+nacionale.com##div[class^=ads-]
+nacionale.com##iframe[height="200"]
+! https://kallxo.com/lajm/kacanik-shoqerohet-ne-polici-i-dyshuari-per-kanosje-ndaj-zyrtarit-te-gjeodezise/
+kallxo.com##div[class*=revive_zone]
