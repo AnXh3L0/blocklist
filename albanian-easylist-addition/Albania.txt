@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: 🇦🇱 Adblock List for Albania
+! Title: 🇦🇱 🇽🇰 Adblock List for Albania and Kosovo
 ! Description: Albanian adblock list
 ! Last modified: 03/11/2023
 ! Expires: 1 day
