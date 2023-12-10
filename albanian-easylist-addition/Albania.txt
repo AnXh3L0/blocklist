@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 🇽🇰 Adblock List for Albania and Kosovo
 ! Description: Albanian adblock list
-! Last modified: 03/11/2023
+! Last modified: 12/10/2023
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -13,7 +13,7 @@
 ##.grecaptcha-badge
 
 ! Gjirafa AdNetwork
-||gjc.gjirafa.com$third-party
+||gjc.gjirafa.com^$third-party
 
 ! GDPR cookies banner
 ###gdpr-banner
@@ -54,7 +54,6 @@ gazetatema.net###reklama1
 gazetatema.net###execphp-24 > .execphpwidget
 gazetatema.net###execphp-25 > .execphpwidget
 gazetatema.net###reklamavodafonestopwords
-gazetatema.net###content > div > a:has-text()
 ||gazetatema.net/wp-content/uploads/2018/12/web-banner.jpg$image
 
 ! Adware that promotes PDF software
@@ -187,10 +186,6 @@ lapsi.al##.textwidget > button
 
 ! UpViral Top Email Marketing Box
 upviral.com###convertbox
-
-! Lajmi Fundit Article Ads
-lajmifundit.al##.td_block_template_1 > a:has-text()
-lajmifundit.al##.td_block_template_1 > center > a:has-text()
 
 ! Alsat TV Messenger Chat Nagging
 alsat-m.tv###fb-root
@@ -447,7 +442,6 @@ www.filma24.*###boost-145
 www.filma24.*##.njoftim
 www.filma24.*##.watch-movie > center
 www.filma24.*##div.movie-info > center
-www.filma24.*###vidad
 www.filma24.*###imgad
 www.filma24.*##center:nth-of-type(2)
 www.filma24.*##center:nth-of-type(4)
@@ -491,12 +485,9 @@ abcnews.al##.align-items-center.flex-column.d-flex.col-sm-3
 ! bulevardionline.com ads
 bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_25_f69.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
 ||img.bulevardionline.com//2020/07/blue_background_color-scaled.jpg$image
-||img.bulevardionline.com//2020/07/blue_background_color-scaled.jpg$image
 bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_25_8e1.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
 bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_53_348.vc_single_image.td-no-img-custom-url.td_block_wrap.td_block_single_image.wpb_wrapper
 bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_54_6f4.vc_single_image.td-no-img-custom-url.td_block_wrap.td_block_single_image.wpb_wrapper
-||img.bulevardionline.com//2020/02/albcanon.gif$image
-||img.bulevardionline.com//2020/02/albcanon.gif$image
 ||img.bulevardionline.com//2020/02/albcanon.gif$image
 bulevardionline.com##.td_block_template_1.td-pb-border-top.td-single-image-.tdi_55_407.vc_single_image.td_block_wrap.td_block_single_image.wpb_wrapper
 bulevardionline.com##.td-pb-span8.tdc-column.vc_column_container.wpb_column.tdi_60_66f.vc_column
