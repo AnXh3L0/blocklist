@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 🇽🇰 Adblock List for Albania and Kosovo
 ! Description: Albanian adblock list
-! Last modified: 12/10/2023
+! Last modified: 10/07/2024
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -548,3 +548,10 @@ nacionale.com##div[class^=ads-]
 nacionale.com##iframe[height="200"]
 ! https://kallxo.com/lajm/kacanik-shoqerohet-ne-polici-i-dyshuari-per-kanosje-ndaj-zyrtarit-te-gjeodezise/
 kallxo.com##div[class*=revive_zone]
+
+
+! gjirafa
+||gjstatic.blob.core.windows.net/fix/bisko.js
+||bisko.gjirafa.tech
+||bisko.gjirafa.net
+||https://bisko.gjirafa.net/web/gjirafatest-sdk.js
